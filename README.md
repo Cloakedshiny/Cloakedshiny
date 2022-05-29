@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello ! , My name is Cloakedshiny!
+#### I am a small developer 
+![I am a small developer ]
+(https://share.creavite.co/FIfhP1rhOOmBQs4g.gif)
 
-<!--
-**Cloakedshiny/Cloakedshiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📘・Currently learning python
+🍒・Contact me on discord ! ( cloakedshiny#5708 )
+📇・My goal for 2022 is to have a stable business
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: still learning...
+
+
+
+
+
+
