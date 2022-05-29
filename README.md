@@ -1,16 +1,15 @@
-### Hello ! , My name is Cloakedshiny!
+### Hi there 👋, My name is Cloakedshiny!
 #### I am a small developer 
+![I am a small developer ](https://api.creavite.co/out/aG4w1fTWuarcmal8_static.png)
 
-[I am a small developer ](https://share.creavite.co/FIfhP1rhOOmBQs4g.gif)
-
-- 📘・Currently learning python
-- 🍒・Contact me on discord ! ( cloakedshiny#5708 )
-- 📇・My goal for 2022 is to have a stable business
+📘・Currently learning python
+🍒・Contact me on discord ! ( cloakedshiny#5708 )
+📇・My goal for 2022 is to have a stable business
 
 
 Skills: still learning...
 
-
+- 🔭 I’m currently working on this page. 
 
 
 
