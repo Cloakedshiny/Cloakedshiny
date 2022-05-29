@@ -1,6 +1,7 @@
 ### Hello ! , My name is Cloakedshiny!
 #### I am a small developer 
-![I am a small developer ](https://share.creavite.co/FIfhP1rhOOmBQs4g.gif)
+
+[I am a small developer ](https://share.creavite.co/FIfhP1rhOOmBQs4g.gif)
 
 - 📘・Currently learning python
 - 🍒・Contact me on discord ! ( cloakedshiny#5708 )
