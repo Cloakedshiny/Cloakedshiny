@@ -2,7 +2,7 @@
 <h3 align="center">A small entrepreneur and programmer since 2021</h3>
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-![I am a small developer ][(https://api.creavite.co/out/Q7v5sp9Qbkrcn2f6_static.png)]
+![I am a small developer ](https://api.creavite.co/out/Q7v5sp9Qbkrcn2f6_static.png)
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloakedshiny&show_icons=true&locale=en&layout=compact" alt="cloakedshiny" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloakedshiny&show_icons=true&theme=dark&locale=en" alt="cloakedshiny" /></p>
