@@ -2,12 +2,9 @@
 <h3 align="center">A teen thats trying to earn his life just with programmation</h3>
 
 - 🔭 I’m currently working on **a bloc note project**
-
 - 📫 How to reach me **CloakedShiny#5708**
-
 - ⚡ Fun fact **I think that programmation has a big future**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
