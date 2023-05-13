@@ -1,8 +1,8 @@
 <h1 align="center">Hello im cloakedshiny</h1>
 <h3 align="center">How are you doing?</h3>
 
-- 💻 I’m currently working on **a calculator**
-- 📫 How to reach me :**CloakedShiny#5708**
+- 💻 I’m currently working on a big project
+- 📫 How to reach me : **CloakedShiny#5708**
 
 <p align="left">
 </p>
